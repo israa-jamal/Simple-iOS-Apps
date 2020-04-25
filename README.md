@@ -1,2 +1,2 @@
 # Simple-iOS-Apps
-These are simple apps I created to apply multiple concepts
+These are simple apps I made to apply multiple concepts
