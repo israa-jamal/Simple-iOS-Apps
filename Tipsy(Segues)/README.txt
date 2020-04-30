@@ -1,0 +1,1 @@
+This is a bill splitting calculating app with option of adding tip 
